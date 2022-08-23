@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.fbx
+Content/SoulCave/*
+Content/SoulCity/*
+DoorInteractionFinal/WindowsNoEditor/*
+Package/WindowsNoEditor/*
