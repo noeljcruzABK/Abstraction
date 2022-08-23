@@ -79,8 +79,8 @@ protected:
 
 	APlayerController* PC;
 
-	UPROPERTY(EditAnywhere, Category="Effects")
-	TSubclassOf<UCameraShake> CamShake;
+	// UPROPERTY(EditAnywhere, Category="Effects")
+	// TSubclassOf<UCameraShake> CamShake;
 
 	// Force Feedback values.
 	UPROPERTY(EditAnywhere, Category="Force Feedback")
